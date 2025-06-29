@@ -10,12 +10,12 @@ export default function Footer() {
             <span className="">
               Created by{" "}
               <Link
-                href="https://aptxayc.ru/"
+                href="https://adgb.ru/"
                 target="_blank"
                 className="font-normal underline cursor-help"
               >
                 {" "}
-                aptxayc
+                adgb
               </Link>
               .
             </span>
